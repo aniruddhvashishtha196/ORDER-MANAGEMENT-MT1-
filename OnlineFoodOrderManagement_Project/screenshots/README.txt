@@ -1,0 +1,1 @@
+Place required screenshots here: HTTP server routes, /home FS serving, and EchoAPI GET/POST/PUT/DELETE tests.
